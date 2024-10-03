@@ -1,9 +1,7 @@
 ### Résumé
-Reconaissance automatique des articles exposants de fausses informations via Machine Learning.
-Ce projet utilise des méthodes classiques de machine learning (hors deep learning donc) afin d'effectuer une reconaissance de Fake news à partir d'un corpus d'articles et de documents textuels diverses.
+Reconnaissance automatique des articles exposant de fausses informations via le Machine Learning. Ce projet utilise des méthodes classiques de machine learning (hors deep learning) afin de reconnaître les fausses nouvelles (fake news) à partir d'un corpus d'articles et de documents textuels divers.
 
-Plusieurs classifieurs ont été testés et mesurés lors de ce projet : SVM, XGboost, MultinomialNB, RandomForest...
-Nous avons également procédés à une recherche de meilleures paramètres à l'aide d'un Grid Search dont le périmètre de recherche a été restreint par l'algorithme RandomSearch.
+Plusieurs classifieurs ont été testés et évalués lors de ce projet : SVM, XGBoost, MultinomialNB, RandomForest... Nous avons également procédé à une recherche des meilleurs paramètres à l'aide d'un Grid Search, dont le périmètre de recherche a été restreint par l'algorithme Random Search.
 
 ### Copyright
 ```
